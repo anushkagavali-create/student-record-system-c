@@ -1,0 +1,5 @@
+1001|Aisha Khan|19|Computer Science|78.5
+1002|Daniel Okafor|20|Information Technology|66.0
+1003|Maria Lopez|18|Business Admin|82.0
+1004|Liam Chen|21|Computer Science|71.5
+1005|Sara Ahmed|19|Electronics|59.0
